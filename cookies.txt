@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fpl12ri.wixsite.com	TRUE	/aseltd	FALSE	1999999999	svSession	0ea634e0c348168262ac601266f758bc5538c249035b61f0ca2eb80e71cc633450808c4f7f34641cefa9a295826734101e60994d53964e647acf431e4f798bcd0552e346da22344651d50e1b65ef8de1c1a006ff000e534c9293287adb59f87d
+fpl12ri.wixsite.com	TRUE	/aseltd	FALSE	1999999999	TS0170b8db	0141ccf485e95599beff067aa384d528f28cea22fcfafed463bdd3caf5f69eb8ad858ce16d299a0be899ac3a9e77202d46b506ce36
+fpl12ri.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=84"
+fpl12ri.wixsite.com	TRUE	/	FALSE	1999999999	hs	294114415
+fpl12ri.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1581605557|Yn0sQirUp8zM
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485e95599beff067aa384d528f28cea22fcfafed463bdd3caf5f69eb8ad858ce16d299a0be899ac3a9e77202d46b506ce36
+
